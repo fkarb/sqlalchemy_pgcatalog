@@ -8,7 +8,7 @@ setup_params = dict(
     name="sqlalchemy_pgcatalog",
     description="SQLAlchemy definitions for PostgreSQL catalog tables",
     packages=find_packages(),
-    version="0.1.0",
+    version="0.1.1",
     install_requires=["sqlalchemy>=0.7.0"],
     author="Renshaw Bay",
     author_email="technology@renshawbay.com",
